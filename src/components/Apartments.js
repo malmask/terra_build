@@ -35,10 +35,10 @@ const Services = () => {
       highlight: false,
     },
     {
-      title: "Buy Properties",
-      description: "Partner with TerraBuild Experts to explore premium residential and commercial properties, helping you buy with confidence and ease.",
-      img: "https://images.unsplash.com/photo-1572120360610-d971b9b1e773?w=400&h=300&fit=crop&crop=center",
-      highlight: false,
+        title: "Buy Properties",
+        description: "Partner with TerraBuild Experts to explore premium residential and commercial properties, helping you buy with confidence and ease.",
+        img: "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=400&h=300&fit=crop",
+        highlight: false,
     },
     {
       title: "Investment",
